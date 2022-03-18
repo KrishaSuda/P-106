@@ -1,0 +1,25 @@
+.header{
+    background-color: cornsilk;
+    color: rgb(255,127,127);
+    margin-bottom: 20px;
+}
+
+body{
+    background: rgb(255,127,127);
+    background: linear-gradient(90deg, rgba(255,127,127,1) 0%, rgba(255,147,147,1) 25%, rgba(255,167,167,1) 50%, rgba(255,187,187,1) 75%, rgba(255,207,207,1) 100%);
+    color: white !important;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+img{
+    height: 400px;
+}
+
+.footer{
+background-color: cornsilk;
+color: rgb(255,127,127);
+padding-top: 10px;
+padding-bottom: 10px;
+margin-top: 58px;
+}
